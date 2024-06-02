@@ -1,0 +1,16 @@
+@use "./partials/_reset" as *;
+@use "./partials/_variables" as *;
+
+.container {
+	max-width: 1400px;
+	margin: 0 auto;
+}
+
+.row {
+	display: flex;
+	flex-wrap: wrap;
+}
+
+.col-33 {
+	width: calc(100% / 3);
+}
