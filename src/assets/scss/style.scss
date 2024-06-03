@@ -1,6 +1,9 @@
 @use "./partials/_reset" as *;
 @use "./partials/_variables" as *;
 
+body {
+	font-family: Arial, Helvetica, sans-serif;
+}
 .container {
 	max-width: 1400px;
 	margin: 0 auto;

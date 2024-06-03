@@ -27,7 +27,6 @@ div {
 
 	a {
 		color: #ffff;
-		font-family: Arial, Helvetica, sans-serif;
 		font-size: 14px;
 		font-weight: 600;
 	}
